@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/livenessprobe:v2.8.0
+FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.6.2
